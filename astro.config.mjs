@@ -9,7 +9,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   output: "static",
   site: 'https://emisanpre.github.io',
-  base: '/github-pages',
+  base: '/astro-portfolio',
 
   integrations: [svelte()],
 
