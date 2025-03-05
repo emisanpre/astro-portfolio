@@ -9,7 +9,6 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   output: "static",
   site: 'https://emisanpre.github.io',
-  base: 'https://github.com/emisanpre/emisanpre.github.io',
 
   integrations: [svelte()],
 
